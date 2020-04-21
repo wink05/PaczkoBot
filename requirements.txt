@@ -1,0 +1,6 @@
+lxml
+requests
+argparse
+fbchat
+linecache
+bs4
